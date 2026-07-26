@@ -449,6 +449,7 @@ form{
     background:none;
     border:none;
     border:0.5px solid #ff0000;
+    border-radius: 20px; 
     color: white; 
 }
 .form-control:hover{
@@ -462,7 +463,7 @@ form{
     background:none;
     border:none;
     border:0.5px solid #ff0000;
-    border-radius:10px;
+    border-radius:20px;
     color:white;
 }
 .form-controle:hover{
