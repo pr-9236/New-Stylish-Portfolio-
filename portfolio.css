@@ -39,7 +39,7 @@ nav ul li:hover{
 nav ul li a{
     text-decoration:none;
     color: #888888;
-    scroll: smooth ;
+    scroll-behavior: smooth;
 }
 nav ul li a:hover{
     color: white;
