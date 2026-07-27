@@ -4,6 +4,7 @@
 }
 html{
     scroll-behavior: smooth;
+    cursor: url('portfolio image.jpg'), auto;
 }
 body{
     background-color: black;
